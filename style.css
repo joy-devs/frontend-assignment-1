@@ -23,13 +23,13 @@ body{
 }
 .item1{
     border-radius: 8px;
-    width: 10px;
+    width: 90px;
+    margin:20px auto ;
     box-sizing:border-box;
     background-color:rgb(6, 6, 68);
-    margin: 20px auto;
     padding: 0 0 20px;
     overflow: hidden;
-    border: 1px solid rgb(120, 89, 89);
+    border: 1px solid rgb(21, 12, 12);
 }
 #wrapper{
     background-color:rgb(10, 10, 77);
@@ -37,11 +37,12 @@ body{
     max-width: 960px;
     margin: 20px auto;
     border-radius: 6px;
-    box-shadow: 1px 10px 10px rgba(0, 0, 0, 0.7);
     box-sizing: border-box;
     padding: 0 0 20px;
     overflow: hidden;
-    border: 1px solid lightgray;
+    border: 1px solid rgb(21, 12, 12);
+    
+    
 
 }
 
